@@ -1,1 +1,1 @@
-# rsschool-cv
+https://prybylouski.github.io/rsschool-cv/cv
