@@ -3,3 +3,12 @@
 ---
 
 > _Up Skill Lab student_
+
+### Contacts:
+
+- +375 29 787 50 31
+- eibiologos@gmail.com
+- [LinkedIn Uladzimir Prybylouski](https://www.linkedin.com/in/uladzimir-prybylouski-a15ab21b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ11L2AAdQdia2KOpPXV%2FEQ%3D%3D)
+- [GitHub prybylouski](https://github.com/prybylouski)
+
+My main goal is to get the opportunity to do what I love. I have a great desire to learn a new profession. And for this I must make every effort.
