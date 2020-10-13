@@ -12,3 +12,18 @@
 - [GitHub prybylouski](https://github.com/prybylouski)
 
 My main goal is to get the opportunity to do what I love. I have a great desire to learn a new profession. And for this I must make every effort.
+
+### My skills:
+>
+> **HTML, CSS, JavaScript, Java, OS Windows**
+
+### Experience:
+
+- JSC "Grodno Azot" | 2008 - Present
+
+_As a supervisor of shift personnel. Quality control process management. Documentation and analysis of technical and economic indicators._
+
+### Education:
+
+- Yanka Kupala State University of Grodno.
+  _Magister of Biology and Chemistry_(2006)
