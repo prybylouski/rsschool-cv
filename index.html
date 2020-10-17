@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link rel="stylesheet" href="style.css" />
     <meta charset="UTF-8" />
     <meta
       name="viewport"
@@ -8,16 +9,20 @@
     />
     <title>My CV</title>
   </head>
+
   <body>
     <main>
       <h1>Uladzimir Prybylouski</h1>
-      <p>UpSkill lab student</p>
+      <h3>UpSkill lab student</h3>
+
       <img src="1.png" alt="Prybylouski img." width="240" height="240" />
       <article>
-        <h2>Contacts</h2>
+        <h2 class="contacts">Contacts:</h2>
         <ul>
-          <li>+375 29 787 50 31</li>
-          <li>eibiologos@gmail.com</li>
+          <li><a href="tel:+375297875031"> +375 29 787 50 31</a></li>
+          <li>
+            <a href="mailto:eibiologos@gmail.com">eibiologos@gmail.com</a>
+          </li>
           <li>
             <a
               href="https://www.linkedin.com/in/uladzimir-prybylouski-a15ab21b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ11L2AAdQdia2KOpPXV%2FEQ%3D%3D"
@@ -38,44 +43,61 @@
       </article>
       <article>
         <h2>My skills:</h2>
-        <p>HTML, CSS, JavaScript, Java, OS Windows</p>
+        <div class="scills">
+          <p>HTML</p>
+          <p>CSS</p>
+          <p>JavaScript</p>
+          <p>Java</p>
+          <p>OS Windows</p>
+        </div>
       </article>
       <article>
-        <h2>Experience2</h2>
-        - JSC "Grodno Azot" | 2008 - Present
+        <h2>Experience:</h2>
+        <p>
+          <a href="http://https://www.azot.by/en/">
+            - JSC "Grodno Azot" | 2008 - Present</a
+          >
+        </p>
         <p>
           As a supervisor of shift personnel. Quality control process
           management. Documentation and analysis of technical and economic
           indicators.
         </p>
       </article>
-      <h2>Education:</h2>
-      <ol>
-        <li>
-          Belarusian State Technological University
-          <ul>
-            <li>
-              Magister of Chemistry, Technology of Electrochemical Production
-              and Electronic Engineering Materials (2010)
-            </li>
-          </ul>
-        </li>
-        <li>
-          Yanka Kupala State University of Grodno
-          <ul>
-            <li>Magister of Biology and Chemistry(2006)</li>
-          </ul>
-        </li>
-      </ol>
+      <article>
+        <h2>Education:</h2>
+        <ol>
+          <li>
+            <a
+              href="http://en.belstu.by/?_ga=2.107567815.471386379.1602924360-1166365711.1602443666"
+              >Belarusian State Technological University</a
+            >
+            <ul>
+              <li>
+                Magister of Chemistry, Technology of Electrochemical Production
+                and Electronic Engineering Materials (2010)
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="https://en.grsu.by/index.php?lang=en"
+              >Yanka Kupala State University of Grodno</a
+            >
+            <ul>
+              <li>Magister of Biology and Chemistry(2006)</li>
+            </ul>
+          </li>
+        </ol>
+      </article>
 
-      <h2>Language:</h2>
-      <ul>
-        <li>
-          |English Intermediate (mrEnglish school certificate 2020 Grodno)
-        </li>
-      </ul>
-
-      English Intermediate (mrEnglish school certificate 2020 Grodno)
+      <article>
+        <h2>Language:</h2>
+        <ul>
+          <li>
+            |English Intermediate (mrEnglish school certificate 2020 Grodno)
+          </li>
+        </ul>
+      </article>
     </main>
   </body>
 </html>

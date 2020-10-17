@@ -14,7 +14,7 @@
 My main goal is to get the opportunity to do what I love. I have a great desire to learn a new profession. And for this I must make every effort.
 
 ### My skills:
->
+
 > **HTML, CSS, JavaScript, Java, OS Windows**
 
 ### Experience:
@@ -24,11 +24,12 @@ My main goal is to get the opportunity to do what I love. I have a great desire 
 _As a supervisor of shift personnel. Quality control process management. Documentation and analysis of technical and economic indicators._
 
 ### Education:
+
 - Belarusian State Technological University.  
   _Magister of Chemistry, Technology of Electrochemical Production and Electronic Engineering Materials_(2010)
 - Yanka Kupala State University of Grodno.
   _Magister of Biology and Chemistry_(2006)
-  
+
 ### Language:
 
 - English Intermediate (mrEnglish school certificate 2020 Grodno)
