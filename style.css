@@ -1,35 +1,46 @@
-* {
+body {
+  margin: 0 auto;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: large;
+  width: 100%;
+  max-width: 1024px;
+  border-radius: 5px;
+  padding-top: 0.5em;
+  padding-bottom: 1em;
   color: rgb(0, 0, 36);
-  margin-left: 30px;
+  background-color: #eff1d5;
 }
 h1 {
-  font-size: 200%;
+  text-align: center;
+  font-size: 2em;
 }
 h2 {
-  border-left: 7px solid rgb(132, 0, 255);
-  padding-left: 5px;
-  font-size: 150%;
+  border-left: 10px solid rgb(132, 0, 255);
+  padding-left: 15px;
+  margin-left: 10px;
+  font-size: 1.5em;
+}
+h3 {
+  text-align: center;
 }
 a {
   text-decoration: none;
 }
-
+p{
+  margin-left: 10px;
+}
 a:hover {
-  background: #786b59; /* Цвет фона под ссылкой */
-  color: #ffe; /* Цвет ссылки */
+  background: #a08b6d; 
+  color: #ffe;
 }
 a:visited {
-  color: #900060; /* Цвет посещённых ссылок */
+  color: #900060; 
 }
 a:active {
-  color: #f00; /* Цвет активной ссылки */
+  color: #f00; 
 }
-h1 {
-  text-align: center;
-}
-.contacts {
+.scills {
+  display: flex;
 }
 .scills > p {
   color: #fff;
@@ -40,4 +51,27 @@ h1 {
   margin: 8px;
   font-size: 16px;
   background-color: #1cb0c4;
+  border-radius: 25px;
+}
+.image {
+  display: block;
+  padding-top: 20px;
+  margin: 0 auto;
+  border-radius: 25%;
+}
+.container {
+  display: flex;
+}
+.leftcolumn {
+  background: linear-gradient(180deg, rgb(245, 244, 225),lemonchiffon, #f3eb7e);
+  width: fit-content;
+  border-radius: 50px 0px 0px 50px;
+}
+.rightcolumn {
+  background: linear-gradient(122deg, #8eeef1, #f77ae2); 
+  border-radius: 0px 50px 50px 0px;
+}
+.goal {
+  margin: 20px;
+  font-size: 1.2em;
 }
