@@ -45,7 +45,7 @@ a:active {
 .scills {
   display: flex;
 }
-.scills > p {
+.scills > li {
   color: #fff;
   box-sizing: auto;
   width: fit-content;
@@ -55,6 +55,7 @@ a:active {
   font-size: 16px;
   background-color: #1cb0c4;
   border-radius: 25px;
+  list-style: none;
 }
 .image {
   display: block;
@@ -69,7 +70,7 @@ a:active {
     display: flex;
     justify-content: space-between;
 }
-.leftcolumn {
+.column {
   background: linear-gradient(
     180deg,
     rgb(245, 244, 225),
@@ -79,7 +80,7 @@ a:active {
   width: fit-content;
   border-radius: 50px 0px 0px 50px;
 }
-.rightcolumn {
+.aside {
   background: linear-gradient(122deg, #8eeef1, #f77ae2);
   border-radius: 0px 50px 50px 0px;
 }
@@ -88,7 +89,7 @@ a:active {
   font-size: 1.2em;
 }
 .rsschool {
-  margin: 0;
+  margin: 0px 30px;
 }
 
 .stamp {
