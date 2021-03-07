@@ -91,7 +91,17 @@ a:active {
 .rsschool {
   margin: 0px 30px;
 }
-
+.footer a:hover {
+  background: none;
+} 
+.rsschool:hover {
+  background: #a08b6d;
+  color: #ffe;
+}
 .stamp {
     margin: 30px;
+}
+.stamp a:hover {
+  background: #a08b6d;
+  color: #ffe;
 }
